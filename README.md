@@ -14,12 +14,13 @@ This project applied a topic-sentiment modelling approach which is Latent Dirich
 The results of this study showed that Nouns, Verbs and Adverb are the best combination of word types, and the optimal number of K topics is 6. The characteristics of coffee extracted from this model are “Coffee Service”, “Coffee Quality”, “Price "," Coffee Bean "," Coffee Flavour "and" Packaging "and all these features are positive features because their positive sentiments have the highest number of reviews compared to negative and neutral sentiments. With the results of this study, business managers and sellers can leverage their customers’ reviews to better understand their needs by providing better services and to increase their sales by improving the product titles, descriptions and features by using keywords or search terms that are more relevant.
 ![image](https://user-images.githubusercontent.com/58675575/178278861-6fd88e76-05e3-4c89-94a6-cd5f7c23e9d4.png)
 
-|Topic|Terms per Topic|
-|Topic 1|	taste, roast, flavor, try, blend, smell, buy, coffee, pretty, think, expect, better, say, brand, even, bit, look, aroma, prefer, give|
-|Topic 2	|cup, pod, work, product, order, box, machine, receive, package, time, come, get, ground, make, buy, money, gift, purchase, problem, packaging|
-|Topic 3	|price, flavor, love, buy, find, variety, try, brand, order, purchase, pack, cup, store, get, decaf, capsule, time, far, coffee, enjoy|
-|Topic 4	|star, love, taste, product, price, best, thank, delivery, buy, stuff, value, order, discount, time, service, coconut, always, arrive, fast, quality|
-|Topic 5	|flavor, love, taste, drink, morning, creamer, add, recommend, make, caffeine, day, sugar, enjoy, milk, tea, need, vanilla, cup, highly, mix|
-|Topic 6	|bean, make, brew, use, bag, get, try, product, drink, water, grind, buy, find, go, review, time, espresso, know, year, take|
+| Feature | Terms per Topic |
+| ------------- | ------------- |
+| Coffee qualities  | taste, roast, flavor, try, blend, smell, buy, coffee, pretty, think, expect, better, say, brand, even, bit, look, aroma, prefer, give |
+|  Packaging | cup, pod, work, product, order, box, machine, receive, package, time, come, get, ground, make, buy, money, gift, purchase, problem, packaging  |
+| Price | price, flavor, love, buy, find, variety, try, brand, order, purchase, pack, cup, store, get, decaf, capsule, time, far, coffee, enjoy |
+|Coffee flavour | flavor, love, taste, drink, morning, creamer, add, recommend, make, caffeine, day, sugar, enjoy, milk, tea, need, vanilla, cup, highly, mix |
+| Customer service	|star, love, taste, product, price, best, thank, delivery, buy, stuff, value, order, discount, time, service, coconut, always, arrive, fast, quality|
+| Coffee bean	|bean, make, brew, use, bag, get, try, product, drink, water, grind, buy, find, go, review, time, espresso, know, year, take |
 
 
